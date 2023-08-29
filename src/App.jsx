@@ -4,7 +4,7 @@ import QuoteGenerator from './components/QuoteGenerator';
 function App() {
   return (
     <div className="App">
-      <h1>Random Quote Generator</h1>
+      <h1>Random Quotes Generator</h1>
       <QuoteGenerator />
     </div>
   );
