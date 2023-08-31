@@ -62,9 +62,3 @@ These instructions will help you set up and run the project on your local machin
 
 Contributions are welcome! If you find a bug or have suggestions for improvements, please [open an issue](https://github.com/your-username/random-quote-generator/issues) or create a pull request.
 
-### License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Please make sure to replace `your-username` with your actual GitHub username, and adjust any other placeholders as needed. This template now reflects the usage of Vite and Yarn for the project setup.
